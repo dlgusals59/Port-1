@@ -24,11 +24,10 @@
  ⑥ 감성 분석 실행 후 부정적 단어들의 시각화(SentimentAnalysis)
 
 <div>
-<img width="600" src="https://user-images.githubusercontent.com/48160116/76383568-9a6ce880-639f-11ea-995f-d5f180c5bd28.png">
-<p></p>
 <img width="600" src="https://user-images.githubusercontent.com/48160116/76383572-9b9e1580-639f-11ea-8f4b-917fcac08ae4.png">
 </div>
 
-
-
+<div>
+<img width="600" src="https://user-images.githubusercontent.com/48160116/76383568-9a6ce880-639f-11ea-995f-d5f180c5bd28.png">
+</div>
 
