@@ -12,12 +12,12 @@
  ④ 명사 추출 후 WordCloud 시각화
   > 2음절 이상의 명사들로만 시각화
 <div>
-<img width="1200" src="https://user-images.githubusercontent.com/48160116/76382786-32b59e00-639d-11ea-82d6-34857e9cc0b2.png">
+<img width="900" src="https://user-images.githubusercontent.com/48160116/76382786-32b59e00-639d-11ea-82d6-34857e9cc0b2.png">
 </div>
 
  ⑤상위 빈도 20개의 단어(명사) 연결망  
 
 <div>
-<img width="1200" src="https://user-images.githubusercontent.com/48160116/76382798-39dcac00-639d-11ea-80cc-42426e8148e8.png">
+<img width="900" src="https://user-images.githubusercontent.com/48160116/76382798-39dcac00-639d-11ea-80cc-42426e8148e8.png">
 </div>
 
